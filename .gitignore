@@ -1,4 +1,39 @@
+<<<<<<< HEAD
 .vs/
 Release/
 OpenExcelTest/Release
 OpenExcelTest/x64
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 4eb6e652429fba412a965075e12739ca8219287e
